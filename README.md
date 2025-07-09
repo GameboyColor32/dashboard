@@ -19,7 +19,7 @@ A TypeScript React dashboard for analyzing Leboncoin customer service ticket qua
 
 ## 🚀 Live Demo
 
-Visit the live dashboard: [Ticket Analysis Dashboard](https://yourusername.github.io/dashboard_tickets)
+Visit the live dashboard: [Ticket Analysis Dashboard](https://GameboyColor32.github.io/dashboard_tickets)
 
 ## 🛠️ Setup
 
@@ -31,7 +31,7 @@ Visit the live dashboard: [Ticket Analysis Dashboard](https://yourusername.githu
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/dashboard_tickets.git
+   git clone https://github.com/GameboyColor32/dashboard_tickets.git
    cd dashboard_tickets
    ```
 

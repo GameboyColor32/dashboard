@@ -2,7 +2,7 @@
   "name": "ticket-analysis-dashboard",
   "version": "1.0.0",
   "description": "Dashboard for analyzing Leboncoin customer service ticket quality",
-  "homepage": "https://[YOUR_USERNAME].github.io/dashboard_tickets",
+  "homepage": "https://GameboyColor32.github.io/dashboard_tickets",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
